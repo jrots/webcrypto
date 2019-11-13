@@ -1,5 +1,6 @@
 {
-  "main": "./lib/index.js",
+  "name": "webcrypto",  
+ "main": "./lib/index.js",
   "devDependencies": {
     "babel-eslint": "^10.0.2",
     "eslint": "^6.1.0",
